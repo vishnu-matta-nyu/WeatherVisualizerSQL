@@ -59,9 +59,3 @@ This project fetches real-time weather data from the Weatherstack API for multip
 - Add more cities and expand the range of weather metrics analyzed
 - Incorporate historical data analysis and weather prediction features
 - Optimize database queries for larger datasets
-
-## Author
-[Your Name]
-
-## License
-This project is open source and available under the [MIT License](LICENSE).
